@@ -50,3 +50,7 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+## GCP Assignment Video
+
+- Google Drive Link : https://drive.google.com/file/d/1K98xJSpgnEZPLO1k5yGY_okVwwu0RBFX/view?usp=sharing
