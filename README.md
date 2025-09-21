@@ -60,3 +60,7 @@ This repository contains four projects:
 - Student name : Shyamantha Perera
 - Student ID : 2020-P-2094
 - Email : [shyamanthaperera64@gmail.com](mailto:shyamanthaperera64@gmail.com)
+
+## License
+
+- This project is licensed under the [MIT License](LICENSE).
