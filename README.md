@@ -54,3 +54,9 @@ This repository contains four projects:
 ## GCP Assignment Video
 
 - Google Drive Link : https://drive.google.com/file/d/1K98xJSpgnEZPLO1k5yGY_okVwwu0RBFX/view?usp=sharing
+
+## Student Details
+
+- Student name : Shyamantha Perera
+- Student ID : 2020-P-2094
+- Email : [shyamanthaperera64@gmail.com](mailto:shyamanthaperera64@gmail.com)
